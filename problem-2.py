@@ -1,3 +1,10 @@
+'''
+Author: Muhammad Sawaiz Karim
+Email: karim52@uwindsor.ca
+Description: Problem II implemented from Rao, By A. Ramachandra et al. “A Markov chain Monte carol method for generating random (0, 1)-matrices with given marginals.” (1996).
+Deals with the random, uniform generation of square matrices with structural zeroes.
+'''
+
 import random
 import numpy as np
 import itertools
